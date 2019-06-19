@@ -6,6 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "eslint": "vue-cli-service lint",
+    "upload": "gulp",
     "stylelint": "stylelint */**/*.{css,less,vue} --fix"
   },
   "dependencies": {
@@ -22,6 +23,8 @@
     "babel-eslint": "^10.0.1",
     "eslint": "^5.8.0",
     "eslint-plugin-vue": "^5.0.0-0",
+    "gulp": "^3.9.1",
+    "gulp-sftp": "git+https://git@github.com/webksde/gulp-sftp.git",
     "less": "^3.0.4",
     "less-loader": "^4.1.0",
     "less-plugin-functions": "^1.0.0",
