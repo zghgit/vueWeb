@@ -23,7 +23,7 @@
     "babel-eslint": "^10.0.1",
     "eslint": "^5.8.0",
     "eslint-plugin-vue": "^5.0.0-0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-sftp": "git+https://git@github.com/webksde/gulp-sftp.git",
     "less": "^3.0.4",
     "less-loader": "^4.1.0",
